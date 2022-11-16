@@ -1,7 +1,7 @@
 # so_long
 Game made for 42 school project using MiniLBX library and C.
 
-It consists on a game where you have to leave the spaceship without touching the aliens.
+It consists on a game where you have to leave the spaceship without touching the aliens, you need to compile it and then run in with a map with ./so_long map.ber
 
 The game is divided in 3 parts:
 
